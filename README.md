@@ -184,3 +184,9 @@ KPI на дашборде были связаны со сводными табл
 - демонстрировать владение Excel на уровне, необходимом для работы аналитиком.
 
 Проект показывает навыки работы с данными, расчёта KPI, построения сводных таблиц, создания интерактивного дашборда.
+
+<img width="1906" height="808" alt="image" src="https://github.com/user-attachments/assets/5868b014-a2e5-4142-85a2-d939177861b1" />
+<img width="1604" height="794" alt="image" src="https://github.com/user-attachments/assets/637bd5aa-d98f-4dbd-a33e-42b978e38622" />
+
+
+
